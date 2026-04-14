@@ -67,7 +67,7 @@ social:
   bluesky: sqlsatboston
   meetup: https://www.meetup.com/nesqlug/
   youtube: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/company/106723357/admin/dashboard/
   instagram: 
   tiktok: 
   pinterest: 
@@ -77,5 +77,6 @@ optInGlobalSponsor: 1
 sponsors:
    
 sponsorplan: |
-    <p>This plan is coming soon</p>
+    <p>This plan can be <a href="https://1drv.ms/w/c/08efef6c47534d9f/IQA-slZWMN-WT5wU-KrPbFPrAZGbVeClS4oZvFnWo9p2Gzs?e=cOY5fd">downloaded </a>from here</p>
+    <p> Sponsorship packages range from $600 - $2500.</p>
     
